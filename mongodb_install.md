@@ -14,7 +14,7 @@ sudo apt update
 
 sudo apt upgrade
 
-sudo apt install mongodb-org
+apt install mongodb-server-core
 ```
 - Verify MongoDb Installed or Not
 ```sh
